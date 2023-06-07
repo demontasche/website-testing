@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://demontasche.github.io/website-testing/sitemap.xml
+Sitemap: https://demontasche.ch/sitemap.xml
